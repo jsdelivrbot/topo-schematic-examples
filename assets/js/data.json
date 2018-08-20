@@ -1,0 +1,50 @@
+[
+  {
+  "id": 1,
+  "deviceName": "Device 1",
+  "level": 1,
+  "room": "Room 1"
+},
+  {
+    "id": 2,
+    "deviceName": "Device 2",
+    "level": 1,
+    "room": "Room 1"
+  },
+  {
+    "id": 3,
+    "deviceName": "Device 3",
+    "level": 1,
+    "room": "Room 2"
+  },
+  {
+    "id": 4,
+    "deviceName": "Device 4",
+    "level": 2,
+    "room": "Room 3"
+  },
+  {
+    "id": 5,
+    "deviceName": "Device 5",
+    "level": 2,
+    "room": "Room 3"
+  },
+  {
+    "id": 6,
+    "deviceName": "Device 6",
+    "level": 2,
+    "room": "Room 3"
+  },
+  {
+    "id": 7,
+    "deviceName": "Device 7",
+    "level": 2,
+    "room": "Room 3"
+  },
+  {
+    "id": 8,
+    "deviceName": "Device 8",
+    "level": 2,
+    "room": "Room 4"
+  }
+]
